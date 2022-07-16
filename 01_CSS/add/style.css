@@ -1,0 +1,19 @@
+.cap{
+    text-align: right;
+    font-weight: 500;
+}
+.adress{
+    text-align: right;
+    font-style: italic;
+}
+.citizen{
+    font-family: 'Comforter', cursive;
+    text-decoration: underline;
+    font-style: italic;
+}
+.text{
+    font-family: 'Comforter', cursive;
+    line-height: 25px;
+    font-size: 20px;
+}
+
