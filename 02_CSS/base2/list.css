@@ -1,0 +1,19 @@
+.block{
+    background-color: black ;
+    color: green;
+    width: 400px;
+    max-height:60px;
+    overflow:auto;
+}
+
+
+
+.text{
+    width: 350px;
+    list-style:upper-roman;
+}
+
+.text2{
+    width: 350px;
+    list-style:lower-roman;
+}
