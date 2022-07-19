@@ -1,0 +1,23 @@
+.block {
+    background-color: rgb(156, 147, 136);
+    width: 15em;
+    float: left;
+    margin-right:  10px;
+}
+p{
+    margin: 0;
+}
+
+.content {
+    background-color: rgb(105, 103, 100);
+    margin-bottom: 0.2em;
+
+}
+
+.footer{
+clear: both;
+background-color: aquamarine;
+}
+.image{
+    float: right;
+}
