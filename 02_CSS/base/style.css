@@ -1,0 +1,99 @@
+.two{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 145px;
+    display: inline-block;
+    background-position: 1px 8px;
+}
+    
+.qween_hearts{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height:  200px;
+    width:  145px;
+    background-position: 0 -1783px;
+    display: inline-block;
+}
+.nine_boobies{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  144px;
+    background-position: -288px -1383px;
+    display: inline-block;
+}
+.ace{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  145px;
+    background-position: -141px -2180px;
+    display: inline-block;
+}
+.joker{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  145px;
+    background-position: -283px -2378px;
+    display: inline-block;
+}
+.card{
+    height: 300px;
+    width: 250px;
+}
+.two_overlay{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 145px;
+    display: inline-block;
+    background-position: 1px 8px;
+    margin-left: 15px;
+    float: left;
+}
+.qween_hearts_overlay{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height:  200px;
+    width:  145px;
+    background-position: 0 -1783px;
+    display: inline-block;
+    margin-left: 63px;
+    margin-top: -199px;
+    float:left;
+}
+.nine_boobies_overlay{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  145px;
+    background-position: -288px -1383px;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: -199px;
+    float:left;
+}
+.ace_overlay{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  145px;
+    background-position: -141px -2180px;
+    display: inline-block;
+    margin-left: 170px;
+    margin-top: -199px;
+    float: left;
+}
+.joker_overlay{
+    background-image:url(../img/cards.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width:  145px;
+    background-position: -283px -2378px;
+    display: inline-block;
+    margin-left: 220px;
+    margin-top: -199px;
+    float: left;
+}
